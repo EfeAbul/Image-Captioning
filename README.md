@@ -18,8 +18,8 @@ You can download it from the link below:
 ## Usage
 
 1. Download the dataset and place it in the appropriate directory.
-2. Run `Image_Captioning.ipynb` in Jupyter Notebook or Google Colab.
-3. Follow the notebook cells to train the model or generate captions from images.
+2. Run `Image_Captioning.ipynb` in Jupyter Notebook or Google Colab (You need to update the file paths accordingly).
+3. Follow the notebook cells to train the model and generate captions from images.
 
 ## Author
 

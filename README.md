@@ -13,7 +13,7 @@ This project focuses on generating descriptive captions for images using deep le
 The full dataset used in this project (including images and annotations) is hosted externally due to size limitations.  
 You can download it from the link below:
 
-👉 [Download the dataset](https://drive.google.com/drive/folders/12MrQf0s39WKGB-81ftvZ6x6KgucODXGU?usp=drive_link)
+[Download the dataset](https://drive.google.com/drive/folders/12MrQf0s39WKGB-81ftvZ6x6KgucODXGU?usp=drive_link)
 
 ## Usage
 
